@@ -1,6 +1,6 @@
-(ns dzone-clojure.core-test
+(ns dzone.sudoku_test
   (:use clojure.test
-        dzone-clojure.core))
+        dzone.sudoku))
 
 (def valid
   [[3 6 2 9 7 8 5 4 1]

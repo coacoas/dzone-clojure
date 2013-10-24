@@ -1,4 +1,4 @@
-(ns dzone-clojure.core
+(ns dzone.sudoku
   (:require [clojure.pprint :as pp]
             [clojure.core.matrix :as m]))
 
